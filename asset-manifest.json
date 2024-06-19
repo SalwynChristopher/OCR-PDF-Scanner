@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OCR-PDF-Scanner/static/css/main.e6cbb786.css",
+    "main.js": "/OCR-PDF-Scanner/static/js/main.51e84fc1.js",
+    "static/js/453.8da5e202.chunk.js": "/OCR-PDF-Scanner/static/js/453.8da5e202.chunk.js",
+    "index.html": "/OCR-PDF-Scanner/index.html",
+    "main.e6cbb786.css.map": "/OCR-PDF-Scanner/static/css/main.e6cbb786.css.map",
+    "main.51e84fc1.js.map": "/OCR-PDF-Scanner/static/js/main.51e84fc1.js.map",
+    "453.8da5e202.chunk.js.map": "/OCR-PDF-Scanner/static/js/453.8da5e202.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6cbb786.css",
+    "static/js/main.51e84fc1.js"
+  ]
+}
