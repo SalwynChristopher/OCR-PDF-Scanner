@@ -1,0 +1,55 @@
+/* App.css */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+.file-uploader {
+  margin: 20px 0;
+}
+
+.file-uploader input[type="file"] {
+  display: none;
+}
+
+.file-uploader label {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.file-uploader label:hover {
+  background-color: #0056b3;
+}
+
+.pdf-text {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  width: 80%;
+  max-width: 800px;
+  margin-top: 20px;
+  overflow-y: auto;
+  max-height: 500px;
+}
+
+.error-message {
+  color: red;
+  margin-top: 20px;
+}
